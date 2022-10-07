@@ -3,12 +3,8 @@
 ## 🙋‍♂️ 안녕하세요! 이광렬 입니다. 🐶 
 
 ### '제' 가 궁금하신가요?👇
-
-**📋 Notion : [10_2Pang 의 노션페이지](https://www.notion.so/yedol1/)**
-
-**✉ Mail : [10_2Pang 의 메일](mailto:yedol1@naver.com)**
-
-<br/>
+<span><a href="https://www.notion.so/yedol1/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width='40' height='40'></a></span>
+ <span><a href="https://www.instagram.com/10_2pang/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"  width='40' height='40'></a></span>
 
 ## 🛠 기술
 ### 기술스택

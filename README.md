@@ -5,7 +5,7 @@
 ### '제' 가 궁금하신가요?👇
 <span><a href="https://www.notion.so/yedol1/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width='40' height='40'></a></span>
  <span><a href="https://www.instagram.com/10_2pang/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"  width='40' height='40'></a></span>
-
+ <span><a href="mailto:yedol1@naver.com" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png"  width='40' height='40'></a></span>
 ## 🛠 기술
 ### 기술스택
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)

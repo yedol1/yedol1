@@ -6,7 +6,7 @@
 
 **📋 Notion : [10_2Pang 의 노션페이지](https://www.notion.so/yedol1/)**
 
-**✉Mail : [10_2Pang 의 메일](mailto:yedol1@naver.com)**
+**✉ Mail : [10_2Pang 의 메일](mailto:yedol1@naver.com)**
 
 <br/>
 

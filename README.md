@@ -3,7 +3,7 @@
 ## 🙋‍♂️ 안녕하세요! 이광렬 입니다. 🐶 
 
 ### '제' 가 궁금하신가요?👇
-<span><a href="https://www.notion.so/yedol1/" target="_blank" alt="이광렬 노션페이지로 이동"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width='40' height='40'></a></span>
+<span><a href="https://www.notion.so/yedol1/46fd649857804ec49feee9e468ba2348" target="_blank" alt="이광렬 노션페이지로 이동"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width='40' height='40'></a></span>
  <span><a href="https://www.instagram.com/10_2pang/" target="_blank" alt="이광렬 인스타그램으로 이동"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"  width='40' height='40'></a></span>
  <span><a href="mailto:yedol1@naver.com" target="_blank" alt="이광렬에게 메일작성하는 페이지로 이동"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png"  width='40' height='40'></a></span>
 ## 🛠 기술
